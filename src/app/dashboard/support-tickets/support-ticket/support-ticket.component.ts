@@ -1,0 +1,11 @@
+import {Component} from "@angular/core";
+
+@Component({
+    selector : 'app-support-ticket',
+    standalone : true,
+    imports : [],
+    templateUrl : './support-ticket.component.html',
+    styleUrls : ['./support-ticket.component.css']
+})
+
+export class SupportTicketComponent {}
